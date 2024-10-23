@@ -15,5 +15,5 @@
 
 - Machine Learning
 - Ing. de Sistemas
-- Septiembre 2024
+- Octubre 2024
 
