@@ -5,15 +5,14 @@
 ### **Estudiantes**
 
 - Anyelo Tilano Algarin
-- Luis Fernandez Tamara
 
 ### **Profesor**
 
-- Dr. Lihki Rubio 
+- Dr. Keyla Alba Molina
 
 ### **Información**
 
-- Machine Learning
+- DataViz
 - Ing. de Sistemas
-- Octubre 2024
+- Diciembre 2024
 
